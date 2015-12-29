@@ -11,4 +11,4 @@
 * 相关项目2：https://github.com/geekan/source-insight-vim source-insight形态的vim，极简
 * 开始时间：2015/12/30
 
-马拉松很难，一般选手不要轻易参与。参与的各位自觉保持更新，也欢迎在issue中互相督促。
+马拉松很难，参与之前请想清楚自己要更新的项目、方向。参与之后各位请自觉保持更新，也欢迎在issue中互相督促。
