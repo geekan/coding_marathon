@@ -4,7 +4,7 @@
 
 * 目标：连续更新 github 365天。不限项目，不限代码量。
 
-加入方法：在此项目中发一个issue，格式如下：
+加入方法：在此项目中发一个issue，title为“XXX参与编程马拉松，为期365天”，内容格式例子如下：
 
 * github地址：https://github.com/geekan
 * 相关项目1：https://github.com/geekan/scrapy-examples scrapy的例子合集，包括了一些抽象的scrapy代码逻辑
